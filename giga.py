@@ -1,0 +1,5 @@
+print("G")
+print("I")
+print("G")
+print("A")
+print("!")
